@@ -5,7 +5,6 @@
 
 body {
     font-family: 'Roboto Slab', serif;
-    /* font-size: 20px; */
 }
 
 .title {
@@ -27,12 +26,18 @@ body {
     text-align: center;
 }
 
+.title-description h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
 .title-text {
-    margin: 0px 150px 15px 150px;
+    margin: 0px 100px 10px 100px;
     padding: 10px;
 }
 
 .link-btn {
+    color: white;
     background-color: tomato;
     border: none;
     border-radius: 5px;
