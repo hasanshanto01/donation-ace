@@ -39,13 +39,47 @@ body {
     padding: 15px 30px;
 }
 
+.donate-today {
+    margin: 80px 50px;
+}
+
+.donate-title {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 15px;
+}
+
+.donate-text {
+    margin-bottom: 15px;
+}
+
+.donation-card {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.200);
+    border-radius: 5px;
+}
+
+.card h1 {
+    text-align: center;
+    line-height: 100px;
+}
+
 
 footer {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 30px;
 }
 
 #footer-heading {
     color: tomato;
+    margin-bottom: 10px;
 }
