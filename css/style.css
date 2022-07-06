@@ -84,6 +84,21 @@ body {
     border-radius: 5px;
 }
 
+.amount input {
+    width: 80%;
+    margin: 40px 90px;
+    border: none;
+    border-bottom: 1px solid tomato;
+    text-align: center;
+}
+
+.amount input:focus {
+    outline: none;
+}
+
+.donate-today button {
+    margin: 0 370px;
+}
 
 footer {
     background-color: black;
