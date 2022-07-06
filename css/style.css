@@ -32,6 +32,7 @@ body {
 }
 
 .link-btn {
+    font-size: 18px;
     color: white;
     background-color: tomato;
     border: none;
@@ -59,16 +60,28 @@ body {
     justify-content: space-evenly;
 }
 
-.card {
-    width: 100px;
-    height: 100px;
+.card-item {
+    width: 80px;
+    height: 80px;
+    padding: 10px;
     background-color: rgba(128, 128, 128, 0.200);
     border-radius: 5px;
 }
 
-.card h1 {
+.card-item h1 {
     text-align: center;
-    line-height: 100px;
+    line-height: 80px;
+}
+
+#card-2 {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(255, 99, 71, 0.300);
+    border: 1px solid tomato;
+    border-radius: 5px;
 }
 
 
