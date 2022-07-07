@@ -65,7 +65,7 @@ body {
     height: 80px;
     padding: 10px;
     background-color: rgba(128, 128, 128, 0.200);
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 .card-item h1 {
@@ -81,7 +81,7 @@ body {
     text-align: center;
     background-color: rgba(255, 99, 71, 0.300);
     border: 1px solid tomato;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 .amount input {
@@ -115,7 +115,7 @@ body {
     height: 250px;
     padding: 10px;
     /* background-color: rgba(128, 128, 128, 0.200); */
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .plan-content {
